@@ -1,0 +1,6 @@
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/bin/Debug/ExoticVault.exe
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/bin/Debug/ExoticVault.pdb
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/obj/x86/Debug/ExoticVault.csprojAssemblyReference.cache
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/obj/x86/Debug/ExoticVault.csproj.CoreCompileInputs.cache
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/obj/x86/Debug/ExoticVault.exe
+/Users/nguyenphanjim/Projects/ExoticVault/ExoticVault/obj/x86/Debug/ExoticVault.pdb
