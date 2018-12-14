@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-namespace ExoticVault
+namespace InventorySystem
 {
     class MainClass
     {

@@ -1,0 +1,6 @@
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/bin/Debug/InventorySystem.exe
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/bin/Debug/InventorySystem.pdb
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/obj/x86/Debug/InventorySystem.csprojAssemblyReference.cache
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/obj/x86/Debug/InventorySystem.csproj.CoreCompileInputs.cache
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/obj/x86/Debug/InventorySystem.exe
+/Users/nguyenphanjim/Projects/InventorySystem/InventorySystem/obj/x86/Debug/InventorySystem.pdb
